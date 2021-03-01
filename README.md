@@ -1,4 +1,4 @@
-# COVID-19-Spatial-Data-Analysis-and-Visualisation
+# COVID-19-Spatial-Data-Analysis-and-Visualization
 Description - This Python Program is to show geo-spatial visual representations of multiple analysis, based on questionnaires from COVID-19 dataset (www.https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv).
 <br/>
 
