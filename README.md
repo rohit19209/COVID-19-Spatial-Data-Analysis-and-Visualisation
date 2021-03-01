@@ -10,5 +10,5 @@ Prerequisite tools as follow:
 
 Steps to use the prerequisite tools:
 1) Download the latest Anaconda distribution from "www.anaconda.com" and select Jupyter Notebook as IDE for computions. Save to your local system.
-2) Download the multiple datasets from "www.kaggle.com" in .csv format and save them in a folder on your local system.
-3) Open Jupyter notebook in your local system and create a new Python file and perform the data analytical based computations.
+2) Click on WinRAR ICON and save to your local system. Then, right click to the .rar file and extract the python file and save to your local system.
+3) Open Jupyter notebook in your local system and select the python file (Covid - 19 Spatial Data Analysis.ipynb) to the analysis and Visualisation.
